@@ -1,0 +1,8 @@
+﻿  luta.cpp
+c:\users\felipe\documents\visual studio 2010\projects\movimento\movimento\luta.cpp(91): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\felipe\documents\visual studio 2010\projects\movimento\movimento\luta.cpp(214): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+c:\users\felipe\documents\visual studio 2010\projects\movimento\movimento\luta.cpp(235): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+  Movimento.vcxproj -> C:\Users\Felipe\Documents\Visual Studio 2010\Projects\Movimento\Movimento\Debug\Movimento.exe
